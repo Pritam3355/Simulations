@@ -1,6 +1,10 @@
 # Simulations
 
-Probability_Integration_Pi - Using Monte-Carlo simulation calculate probability of simultaneous coin toss, 
-                              area under curve and Pi
+1. Probability_Integration_Pi - 
+          
+          Using Monte-Carlo simulation calculate probability of simultaneous coin toss, 
+          area under curve and Pi
                             
-Gambling - Monte-Carlo simulation simple betting , Martingle Strategy
+2. Gambling - 
+      
+        Monte-Carlo simulation simple betting , Martingle Strategy
